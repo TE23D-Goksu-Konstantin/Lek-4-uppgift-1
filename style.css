@@ -1,0 +1,48 @@
+.rubrik{
+    color: blue;
+    background-color: yellow;
+    text-align: center;
+    border: 2px black solid;
+    margin-left: 17%;
+    margin-right: 17%;
+
+}
+
+body{
+    background-image: url("./img/showcase.jpg");
+}
+
+.html2{
+    background-color: gray;
+    border: 2px black solid;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 2%;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+.css2{
+    background-color: gray;
+    border: 2px black solid;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 2%;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+.java2{
+    background-color: gray;
+    border: 2px black solid;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding-left: 2%;
+    padding-right: 2%;
+    margin-bottom: 1%;
+}
+
+.allt{
+
+    margin-left: 330px;
+}
